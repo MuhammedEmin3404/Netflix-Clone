@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../resimler"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "netflix"
+	}
+}
